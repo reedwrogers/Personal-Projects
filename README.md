@@ -1,5 +1,5 @@
 # Projects Directory
-This repository serves as a directory that helps you easily navigate through my other repositories and view the various projects I have completed.
+Hello! This repository contains my list of completed and scheduled projects I would like to do. 
 
 ## Collection of personal projects 
 
