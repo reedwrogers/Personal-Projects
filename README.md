@@ -1,5 +1,5 @@
 # Projects Directory
-Hello! This repository contains my list of completed and scheduled projects I would like to do. 
+Hello! This repository contains my list of completed projects as well as ones I am interested in attempting in the future. 
 
 ## Collection of personal projects 
 
