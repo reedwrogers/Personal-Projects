@@ -3,7 +3,7 @@ Hello! This repository contains my list of completed projects as well as ones I 
 
 ## Collection of personal projects 
 
-[C](#c) - [E](#e) - [G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p)- [Q](#q) - [R](#r)
+[C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r)
 <br>
 <br>
 ## C <a id="a"></a>
