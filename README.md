@@ -31,4 +31,4 @@ Hello! This repository contains my list of completed projects as well as ones I 
 - Principal Coordinate Analysis
 
 ## R <a id="a"></a>
--  <a href="[https://www.example.com](https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb)">Random Forest</a>
+-  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
