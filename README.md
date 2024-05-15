@@ -7,6 +7,7 @@ Hello! This repository contains my list of completed projects as well as ones I 
 <br>
 <br>
 ## C <a id="a"></a>
+- Causal Inference
 - Clustering
 
 ## E <a id="a"></a>
