@@ -20,6 +20,7 @@ Hello! This repository contains my list of completed projects as well as ones I 
 - Gradient Descent
 
 ## L <a id="a"></a>
+- Large Language Models
 - Linear Regression
 - Logistic Regression
 
