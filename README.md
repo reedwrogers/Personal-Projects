@@ -3,7 +3,7 @@ Hello! This repository contains my list of completed projects as well as ones I 
 
 ## Collection of personal projects 
 
-[C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r)
+[C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [T](#t) 
 <br>
 <br>
 ## C <a id="a"></a>
@@ -34,3 +34,6 @@ Hello! This repository contains my list of completed projects as well as ones I 
 
 ## R <a id="a"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
+
+## T <a id="a"></a>
+- Twitter Activity Bot
