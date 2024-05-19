@@ -1,5 +1,5 @@
 # Projects Directory
-Hello! I started this repository in May of 2024 in an attempt to start to consolidate topics I have learned about through coursework and my free time relating to data science and machine learning. In my free time, I work towards completing the potential projects I have listed below. Thank you!
+Hello! I started this repository in May of 2024 in an attempt to start to consolidate topics I have learned about through coursework and independent study related to data science and machine learning. In my free time, I work towards completing the projects I have listed below. Thank you!
 
 ## Collection of personal projects 
 
