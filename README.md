@@ -6,7 +6,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 [B](#b) - [C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
-## B <a id="a"></a>
+## B <a id="b"></a>
 - Bird Detection Model 
 
 ## C <a id="a"></a>
@@ -41,6 +41,6 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 ## S <a id="a"></a>
 -  Statistics for Data Science
 
-## T <a id="a"></a>
+## T <a id="t"></a>
 - Tensorflow
 - Twitter Activity Bot
