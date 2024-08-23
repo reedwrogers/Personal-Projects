@@ -9,36 +9,36 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 ## B <a id="b"></a>
 - Bird Detection Model 
 
-## C <a id="a"></a>
+## C <a id="c"></a>
 - Causal Inference
 - Clustering
 
-## E <a id="a"></a>
+## E <a id="e"></a>
 - Expectation-maximization
 
-## F <a id="a"></a>
+## F <a id="f"></a>
 - Fantasy Premier League Point Prediction Model
 
-## G <a id="a"></a>
+## G <a id="g"></a>
 - Gradient Descent
 
-## L <a id="a"></a>
+## L <a id="l"></a>
 - Large Language Models
 - Linear Regression
 - Logistic Regression
 
-## N <a id="a"></a>
+## N <a id="n"></a>
 - Naive Bayes
 - Neural Networks
 
-## P <a id="a"></a>
+## P <a id="p"></a>
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
-## R <a id="a"></a>
+## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
 
-## S <a id="a"></a>
+## S <a id="s"></a>
 -  Statistics for Data Science
 
 ## T <a id="t"></a>
