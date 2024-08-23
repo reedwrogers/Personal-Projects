@@ -3,7 +3,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 
 ## Collection of personal projects 
 
-[B](#b) - [C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [T](#t) 
+[B](#b) - [C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## B <a id="a"></a>
@@ -38,5 +38,9 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 ## R <a id="a"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
 
+## S <a id="a"></a>
+-  Statistics for Data Science
+
 ## T <a id="a"></a>
+- Tensorflow
 - Twitter Activity Bot
