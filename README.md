@@ -17,7 +17,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 - <a href="https://github.com/reedwrogers/reedwrogers.github.io">D3 Interactive Visualization</a>
 
 ## E <a id="e"></a>
-- "Essential Math for Data Science" - Annotated by Me
+- <a href="https://github.com/reedwrogers/Essential-Math-For-Data-Science">"Essential Math for Data Science" - Annotated by Me</a>
 - Expectation-maximization
 
 ## F <a id="f"></a>
