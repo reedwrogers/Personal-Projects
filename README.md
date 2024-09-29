@@ -3,7 +3,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 
 ## Collection of personal projects 
 
-[B](#b) - [C](#c) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## B <a id="b"></a>
@@ -12,6 +12,9 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 ## C <a id="c"></a>
 - Causal Inference
 - Clustering
+
+## D <a id="d"></a>
+- D3 Interactive Visualization <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
 
 ## E <a id="e"></a>
 - Expectation-maximization
