@@ -17,6 +17,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 - <a href="https://github.com/reedwrogers/reedwrogers.github.io">D3 Interactive Visualization</a>
 
 ## E <a id="e"></a>
+- "Essential Math for Data Science" - Annotated by Me
 - Expectation-maximization
 
 ## F <a id="f"></a>
@@ -34,6 +35,9 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 - Naive Bayes
 - Neural Networks
 
+## O <a id="o"></a>
+- OCR (Pen to Pi Handwritten Note Translator IoT Project)
+
 ## P <a id="p"></a>
 - Principal Component Analysis
 - Principal Coordinate Analysis
@@ -42,7 +46,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
 
 ## S <a id="s"></a>
--  Statistics for Data Science
+-  <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car (Raspberry Pi)</a>
 
 ## T <a id="t"></a>
 - Tensorflow
