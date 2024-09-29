@@ -14,7 +14,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 - Clustering
 
 ## D <a id="d"></a>
-- D3 Interactive Visualization <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
+- <a href="https://github.com/reedwrogers/reedwrogers.github.io">D3 Interactive Visualization</a>
 
 ## E <a id="e"></a>
 - Expectation-maximization
