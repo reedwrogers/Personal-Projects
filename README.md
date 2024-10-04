@@ -46,7 +46,7 @@ Hello! I started this repository in May of 2024 in an attempt to start to consol
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
 
 ## S <a id="s"></a>
--  <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car (Raspberry Pi)</a>
+-  <a href="https://github.com/reedwrogers/Self-Driving-Car-IoT">Self-Driving Car (Raspberry Pi)</a>
 
 ## T <a id="t"></a>
 - Tensorflow
