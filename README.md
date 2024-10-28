@@ -11,6 +11,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## C <a id="c"></a>
 - Causal Inference
+- Christmas Movie Marathon Automated Rating System
 - Clustering
 
 ## D <a id="d"></a>
