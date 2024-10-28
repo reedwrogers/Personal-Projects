@@ -3,7 +3,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## Collection of personal projects 
 
-[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## B <a id="b"></a>
@@ -12,7 +12,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## C <a id="c"></a>
 - Causal Inference
 - Christmas Movie Marathon Automated Rating System
-- Clustering
+- Clustering from Scratch
 
 ## D <a id="d"></a>
 - <a href="https://github.com/reedwrogers/reedwrogers.github.io">D3 Interactive Visualization</a>
@@ -21,33 +21,34 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Expectation-maximization
 
 ## F <a id="f"></a>
-- Fantasy Premier League Point Prediction Model
-
-## G <a id="g"></a>
-- Gradient Descent
+- FPL Point Prediction Model
 
 ## L <a id="l"></a>
 - Large Language Models
-- Linear Regression
-- Logistic Regression
+- Linear Regression from Scratch
+- Logistic Regression from Scratch
+
+## M <a id="m"></a>
+- Markov Chain Analysis for Text Prediction
+- Monte Carlo Simulation With Financial Data
 
 ## N <a id="n"></a>
-- Naive Bayes
-- Neural Networks
+- Naive Bayes from Scratch
+- Neural Network from Scratch
 
 ## O <a id="o"></a>
-- OCR (Pen to Pi Handwritten Note Translator IoT Project)
+- Pen to Pi
 
 ## P <a id="p"></a>
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
 ## R <a id="r"></a>
--  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest</a>
+-  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a>
 - Running Map Image Generator
 
 ## S <a id="s"></a>
--  <a href="https://github.com/reedwrogers/Self-Driving-Car-IoT">Self-Driving Car (Raspberry Pi)</a>
+-  <a href="https://github.com/reedwrogers/Self-Driving-Car-IoT">Self-Driving Pi Car</a>
 
 ## T <a id="t"></a>
 - Tensorflow
