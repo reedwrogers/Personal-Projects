@@ -37,7 +37,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Neural Network from Scratch
 
 ## P <a id="p"></a>
-- Pen to Pi
+- <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
