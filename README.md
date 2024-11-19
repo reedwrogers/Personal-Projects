@@ -3,7 +3,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## Collection of personal projects 
 
-[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## B <a id="b"></a>
@@ -36,10 +36,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Naive Bayes from Scratch
 - Neural Network from Scratch
 
-## O <a id="o"></a>
-- Pen to Pi
-
 ## P <a id="p"></a>
+- Pen to Pi
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
