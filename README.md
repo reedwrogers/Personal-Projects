@@ -13,7 +13,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Clustering from Scratch
 
 ## D <a id="d"></a>
-- <a href="https://github.com/reedwrogers/reedwrogers.github.io">D3 Interactive Visualization</a>
+- <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a>
+  - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
 
 ## E <a id="e"></a>
 - Expectation-maximization
@@ -36,6 +37,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
+  - An IoT system taking images of my handwritten notes taken with my Raspberry Pi 4B and running OCR on them with Google Cloud Vision API
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
