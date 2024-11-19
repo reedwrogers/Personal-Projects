@@ -26,21 +26,27 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## L <a id="l"></a>
 - Large Language Models
+  
 - Linear Regression from Scratch
+  
 - Logistic Regression from Scratch
 
 ## M <a id="m"></a>
 - Markov Chain Analysis for Text Prediction
+  
 - Monte Carlo Simulation With Financial Data
 
 ## N <a id="n"></a>
 - Naive Bayes from Scratch
+  
 - Neural Network from Scratch
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
   - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API
+    
 - Principal Component Analysis
+  
 - Principal Coordinate Analysis
 
 ## R <a id="r"></a>
@@ -53,4 +59,5 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## T <a id="t"></a>
 - Tensorflow
+  
 - Twitter Activity Bot
