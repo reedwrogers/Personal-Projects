@@ -9,7 +9,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## C <a id="c"></a>
 - Causal Inference
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
-  - <p style="font-size: smaller;">An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP</p>
+  - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
 - Clustering from Scratch
 
 ## D <a id="d"></a>
