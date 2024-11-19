@@ -37,7 +37,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
-  - An IoT system taking images of my handwritten notes taken with my Raspberry Pi 4B and running OCR on them with Google Cloud Vision API
+  - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API
 - Principal Component Analysis
 - Principal Coordinate Analysis
 
