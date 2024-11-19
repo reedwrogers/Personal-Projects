@@ -11,7 +11,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 <br>
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
-<br>
+<br><br>
+
 - Clustering from Scratch
 
 ## D <a id="d"></a>
