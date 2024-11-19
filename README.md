@@ -8,10 +8,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 <br>
 ## C <a id="c"></a>
 - Causal Inference
-<br>
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
-<br><br>
 
 - Clustering from Scratch
 
@@ -27,32 +25,25 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## L <a id="l"></a>
 - Large Language Models
-<br>
 - Linear Regression from Scratch
-<br>
 - Logistic Regression from Scratch
 
 ## M <a id="m"></a>
 - Markov Chain Analysis for Text Prediction
-<br>
 - Monte Carlo Simulation With Financial Data
 
 ## N <a id="n"></a>
 - Naive Bayes from Scratch
-<br>
 - Neural Network from Scratch
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
   - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API
-<br>
 - Principal Component Analysis
-<br>
 - Principal Coordinate Analysis
 
 ## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a>
-<br>
 - Running Map Image Generator
 
 ## S <a id="s"></a>
@@ -61,5 +52,4 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## T <a id="t"></a>
 - Tensorflow
-<br>
 - Twitter Activity Bot
