@@ -3,7 +3,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## Collection of personal projects 
 
-[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) -[G](#g) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## C <a id="c"></a>
