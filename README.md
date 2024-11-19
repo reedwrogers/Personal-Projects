@@ -46,7 +46,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Running Map Image Generator
 
 ## S <a id="s"></a>
--  <a href="https://github.com/reedwrogers/Self-Driving-Car-IoT">Self-Driving Pi Car</a>
+-  <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car Labs</a>
+  - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
 
 ## T <a id="t"></a>
 - Tensorflow
