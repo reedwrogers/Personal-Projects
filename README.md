@@ -1,7 +1,7 @@
 # Projects Directory
 Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. 
 
-## Collection of personal projects 
+## Glossary
 
 [C](#c) - [D](#d) - [E](#e) - [F](#f) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
