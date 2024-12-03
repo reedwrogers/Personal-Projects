@@ -1,5 +1,5 @@
 # Projects Directory
-Hello! I started this repository to keep track of things I want to learn or projects I want to complete.
+Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. 
 
 ## Collection of personal projects 
 
