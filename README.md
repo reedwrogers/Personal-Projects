@@ -3,9 +3,13 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## Glossary
 
-[C](#c) - [D](#d) - [E](#e) - [F](#f) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[A](#a) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
+## A <a id="a"></a>
+- "An Introduction to Statistics with Python" by Thomas Haslwanter
+  - My Jupyter Notebook I used working through the textbook
+
 ## C <a id="c"></a>
 - Causal Inference
   
