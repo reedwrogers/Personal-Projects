@@ -7,7 +7,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 <br>
 <br>
 ## A <a id="a"></a>
-- "An Introduction to Statistics with Python" by Thomas Haslwanter
+- <a href="https://github.com/reedwrogers/Book-IntroToStatsWPython">"An Introduction to Statistics with Python" by Thomas Haslwanter</a>
   - My Jupyter Notebook I used working through the textbook
 
 ## C <a id="c"></a>
