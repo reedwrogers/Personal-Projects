@@ -1,5 +1,10 @@
 # Projects Directory
-Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. 
+Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. Enjoy browsing over my interests in the fields of math, data science, IoT, and more, as well as some coursework from my Masters in Computer Science, Data Science at the University of Illinois Urbana-Champaign.
+
+## Legend
+<div style="background-color:lightgray; padding:10px; border-radius:5px;">
+Text highlighted in <span style="font-weight:bold;">gray</span> represents projects saved for future completion.
+</div>
 
 ## Glossary
 
@@ -11,32 +16,31 @@ Hello! I started this repository to keep track of things I want to learn or proj
   - My Jupyter Notebook I used working through the textbook
 
 ## C <a id="c"></a>
-- Causal Inference
+- <span style="background-color:lightgray;">Causal Inference</span>
 - <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a>
   - My notes and projects for UIUC's computational photography class (UIUC MCS-DS)
-
   
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
 
-- Clustering from Scratch
+- <span style="background-color:lightgray;">Clustering from Scratch</span>
 
 ## D <a id="d"></a>
 - <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a>
   - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
 
 ## E <a id="e"></a>
-- Expectation-maximization
+- <span style="background-color:lightgray;">Expectation-maximization</span>
 
 ## F <a id="f"></a>
-- FPL Point Prediction Model
+- <span style="background-color:lightgray;">FPL Point Prediction Model</span>
 
 ## L <a id="l"></a>
-- Large Language Models
+- <span style="background-color:lightgray;">Large Language Models</span>
   
-- Linear Regression from Scratch
+- <span style="background-color:lightgray;">Linear Regression from Scratch</span>
   
-- Logistic Regression from Scratch
+- <span style="background-color:lightgray;">Logistic Regression from Scratch</span>
 
 ## M <a id="m"></a>
 - Markov Chain Analysis for Text Prediction
@@ -48,17 +52,17 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Monte Carlo Simulation With Financial Data
 
 ## N <a id="n"></a>
-- Naive Bayes from Scratch
+- <span style="background-color:lightgray;">Naive Bayes from Scratch</span>
   
-- Neural Network from Scratch
+- <span style="background-color:lightgray;">Neural Network from Scratch</span>
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
   - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API
     
-- Principal Component Analysis
+- <span style="background-color:lightgray;">Principal Component Analysis</span>
   
-- Principal Coordinate Analysis
+- <span style="background-color:lightgray;">Principal Coordinate Analysis</span>
 
 ## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a>
@@ -69,6 +73,6 @@ Hello! I started this repository to keep track of things I want to learn or proj
   - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
 
 ## T <a id="t"></a>
-- Tensorflow
+- <span style="background-color:lightgray;">Tensorflow</span>
   
-- Twitter Activity Bot
+- <span style="background-color:lightgray;">Twitter Activity Bot</span>
