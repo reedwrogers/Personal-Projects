@@ -1,5 +1,5 @@
 # Projects Directory
-Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. Enjoy browsing over my interests in the fields of math, data science, IoT, and more, as well as some coursework from my Masters in Computer Science, Data Science at the University of Illinois Urbana-Champaign. Ideas for future problems are in *italics*.
+Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. Enjoy browsing over my interests in the fields of math, data science, IoT, and more, as well as some coursework from my Masters in Computer Science, Data Science at the University of Illinois Urbana-Champaign. Ideas for future topics are in *italics*.
 
 ## Glossary
 
@@ -18,49 +18,50 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
 
-- Clustering from Scratch
+- *Clustering from Scratch*
 
 ## D <a id="d"></a>
 - <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a>
   - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
 
 ## E <a id="e"></a>
-- Expectation-maximization
+- *Expectation-maximization*
 
 ## F <a id="f"></a>
-- FPL Point Prediction Model
+- *FPL Point Prediction Model*
 
 ## L <a id="l"></a>
-- Large Language Models
+- *Large Language Models*
   
-- Linear Regression from Scratch
+- *Linear Regression from Scratch*
   
-- Logistic Regression from Scratch
+- *Logistic Regression from Scratch*
 
 ## M <a id="m"></a>
-- Markov Chain Analysis for Text Prediction
+- *Markov Chain Analysis for Text Prediction*
 
-- Mining Bitcoin with Pyminer
+- *Mining Bitcoin with Pyminer*
 
-- Minimax Implementation to play Tic-Tac-Toe
+- *Minimax Implementation to play Tic-Tac-Toe*
   
-- Monte Carlo Simulation With Financial Data
+- *Monte Carlo Simulation With Financial Data*
 
 ## N <a id="n"></a>
-- Naive Bayes from Scratch
+- *Naive Bayes from Scratch*
   
-- Neural Network from Scratch
+- *Neural Network from Scratch*
 
 ## P <a id="p"></a>
 - <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
-  - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API
+  - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API (UIUC MCS-DS)
     
-- Principal Component Analysis
+- *Principal Component Analysis*
   
-- Principal Coordinate Analysis
+- *Principal Coordinate Analysis*
 
 ## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a>
+
 - Running Map Image Generator
 
 ## S <a id="s"></a>
@@ -68,6 +69,6 @@ Hello! I started this repository to keep track of things I want to learn or proj
   - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
 
 ## T <a id="t"></a>
-- Tensorflow
+- *Tensorflow*
   
-- Twitter Activity Bot
+- *Twitter Activity Bot*
