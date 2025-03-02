@@ -1,5 +1,5 @@
 # Projects Directory
-Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. Enjoy browsing over my interests in the fields of math, data science, IoT, and more, as well as some coursework from my Masters in Computer Science, Data Science at the University of Illinois Urbana-Champaign.
+Hello! I started this repository to keep track of things I want to learn or projects I want to complete for fun in my free time. Enjoy browsing over my interests in the fields of math, data science, IoT, and more, as well as some coursework from my Masters in Computer Science, Data Science at the University of Illinois Urbana-Champaign. Ideas for future problems are in *italics*.
 
 ## Glossary
 
