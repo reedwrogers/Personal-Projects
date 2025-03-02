@@ -12,16 +12,16 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## C <a id="c"></a>
 - *Causal Inference*
-- <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a>
+- <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a> 🍊
   - My notes and projects for UIUC's computational photography class (UIUC MCS-DS)
   
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
 
-- *Clustering from Scratch*
+- *Clustering from Scratch* 🛠
 
 ## D <a id="d"></a>
-- <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a>
+- <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a> 🍊
   - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
 
 ## E <a id="e"></a>
@@ -33,9 +33,9 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## L <a id="l"></a>
 - *Large Language Models*
   
-- *Linear Regression from Scratch*
+- *Linear Regression from Scratch* 🛠
   
-- *Logistic Regression from Scratch*
+- *Logistic Regression from Scratch* 🛠
 
 ## M <a id="m"></a>
 - *Markov Chain Analysis for Text Prediction*
@@ -47,12 +47,12 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - *Monte Carlo Simulation With Financial Data*
 
 ## N <a id="n"></a>
-- *Naive Bayes from Scratch*
+- *Naive Bayes from Scratch* 🛠
   
-- *Neural Network from Scratch*
+- *Neural Network from Scratch* 🛠
 
 ## P <a id="p"></a>
-- <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a>
+- <a href="https://github.com/reedwrogers/Pen-To-Pi">Pen to Pi</a> 🍊
   - An IoT system taking images of handwritten notes from my Raspberry Pi and running OCR on them with Google Cloud Vision API (UIUC MCS-DS)
     
 - *Principal Component Analysis*
@@ -60,12 +60,12 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - *Principal Coordinate Analysis*
 
 ## R <a id="r"></a>
--  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a>
+-  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a> 🛠
 
 - Running Map Image Generator
 
 ## S <a id="s"></a>
-- <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car Labs</a>
+- <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car Labs</a> 🍊
   - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
 
 ## T <a id="t"></a>
