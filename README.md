@@ -11,7 +11,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
   - My annotations to the textbook as I work through some basic statistical concepts
 
 ## C <a id="c"></a>
-- Causal Inference
+- *Causal Inference*
 - <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a>
   - My notes and projects for UIUC's computational photography class (UIUC MCS-DS)
   
