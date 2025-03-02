@@ -3,7 +3,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## Glossary
 
-[A](#a) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
+[A](#a) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
 ## A <a id="a"></a>
@@ -17,6 +17,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
   
 - <a href="https://github.com/reedwrogers/Christmas-Movie-Marathon">Christmas Movie Marathon</a>
   - An automated system to collect feedback via text from family on our Christmas movie marathon using SQLite, Python, and SMTP
+ 
+- *Clinical Trial Simulation* 🧪
 
 - *Clustering from Scratch* 🛠
 
@@ -29,6 +31,9 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## F <a id="f"></a>
 - *FPL Point Prediction Model*
+
+## G <a id="g"></a>
+- *Genomic Analysis* 🧪
 
 ## L <a id="l"></a>
 - *Large Language Models*
