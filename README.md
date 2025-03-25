@@ -27,6 +27,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
   - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
 
 ## E <a id="e"></a>
+- <a href="https://github.com/dscott1414/CS598DLH">"EHR Safari: Data is Contextual" Paper Recreation</a> 🍊
+  - My partner and I recreated the findings in this paper for our CS 598 final project. This paper looks at the Medican Information Mart for Intensive Care (MIMIC)
 - *Expectation-maximization*
 
 ## F <a id="f"></a>
