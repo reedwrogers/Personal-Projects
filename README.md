@@ -28,7 +28,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## E <a id="e"></a>
 - <a href="https://github.com/dscott1414/CS598DLH">"EHR Safari: Data is Contextual" Paper Recreation</a> 🍊🧪
-  - Using the Medican Information Mart for Intensive Care (MIMIC), my partner and I replicated findings for our CS 598 final project
+  - Using the Medical Information Mart for Intensive Care (MIMIC) dataset, my partner and I replicated findings for our CS 598 final project
 - *Expectation-maximization*
 
 ## F <a id="f"></a>
