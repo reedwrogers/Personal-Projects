@@ -72,6 +72,9 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Running Map Image Generator
 
 ## S <a id="s"></a>
+- <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a> 🍊
+  - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
+    
 - <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car Labs</a> 🍊
   - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
 
