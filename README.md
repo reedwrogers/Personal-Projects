@@ -23,8 +23,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - *Clustering from Scratch* 🛠
 
 ## D <a id="d"></a>
-- <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a> 🍊
-  - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
+- <a href="https://github.com/reedwrogers/Dart-Vision/tree/main">Dart-Vision</a> 🍊
+  - My group's final project for our computational photography course, where we implement an automatic dart scoring system (UIUC MCS-DS)
 
 ## E <a id="e"></a>
 - <a href="https://github.com/dscott1414/CS598DLH">"EHR Safari: Data is Contextual" Paper Recreation</a> 🍊🧪
