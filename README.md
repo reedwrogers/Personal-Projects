@@ -12,6 +12,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## C <a id="c"></a>
 - *Causal Inference*
+  
 - <a href="https://github.com/reedwrogers/UIUC-Computational-Photography">Computational Photography</a> 🍊
   - My notes and projects for UIUC's computational photography class (UIUC MCS-DS)
   
@@ -73,6 +74,9 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - Running Map Image Generator
 
 ## S <a id="s"></a>
+- <a href="https://github.com/reedwrogers/UIUC-Scientific-Visualization">Scientific Visuaization</a> 🍊🧪
+  - My notes and projects for UIUC's scientific visualization class (UIUC MCS-DS)
+
 - <a href="https://reedwrogers.github.io/Shades-of-Consumption.github.io/">Shades of Consumption</a> 🍊
   - An interactive D3 visual made in JavaScript and HTML telling the story of coal consumption in previous decades (UIUC MCS-DS)
     
