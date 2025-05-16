@@ -6,10 +6,6 @@ Hello! I started this repository to keep track of things I want to learn or proj
 [A](#a) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [R](#r) - [S](#s) - [T](#t) 
 <br>
 <br>
-## A <a id="a"></a>
-- <a href="https://github.com/reedwrogers/Book-IntroToStatsWPython">"An Introduction to Statistics with Python" by Thomas Haslwanter</a> 📚
-  - My annotations to the textbook as I work through some basic statistical concepts
-
 ## C <a id="c"></a>
 - *Causal Inference*
   
