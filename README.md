@@ -38,7 +38,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## L <a id="l"></a>
 - *Large Language Models*
 
-- *Lens Artifact Removal from Photographs*
+- <a href="https://github.com/reedwrogers/Lens-Artifact">Lens Artifact Removal from Photographs</a>
   
 - *Linear Regression from Scratch* 🛠
   
