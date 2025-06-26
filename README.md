@@ -37,6 +37,8 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 ## L <a id="l"></a>
 - *Large Language Models*
+
+- *Lens Artifact Removal from Photographs*
   
 - *Linear Regression from Scratch* 🛠
   
