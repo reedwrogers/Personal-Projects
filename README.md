@@ -67,7 +67,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - *Principal Coordinate Analysis*
 
 ## R <a id="r"></a>
--  <a href="https://github.com/reedwrogers/Random-Forest/blob/main/Random%20Forest.ipynb">Random Forest from Scratch</a> 🛠
+-  <a href="https://github.com/reedwrogers/Random-Forest">Random Forest from Scratch</a> 🛠
 
 - Running Map Image Generator
 
