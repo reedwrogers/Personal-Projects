@@ -49,7 +49,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 
 - *Mining Bitcoin with Pyminer*
 
-- *Minimax Implementation to play Tic-Tac-Toe*
+- <a href="https://github.com/reedwrogers/Tic-Tac-Toe">Minimax Implementation to play Tic-Tac-Toe</a>
   
 - *Monte Carlo Simulation With Financial Data*
 
