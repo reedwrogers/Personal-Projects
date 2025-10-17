@@ -17,24 +17,23 @@ Hello! I started this repository to keep track of things I want to learn or proj
 - *Clinical Trial Simulation* 🧪
 
 ## D <a id="d"></a>
+
 - <a href="https://github.com/reedwrogers/Dart-Vision/tree/main">Dart-Vision</a> 🍊
   - My group's final project for our computational photography course, where we implement an automatic dart scoring system (UIUC MCS-DS)
 
 ## E <a id="e"></a>
+
 - <a href="https://github.com/dscott1414/CS598DLH">"EHR Safari: Data is Contextual" Paper Recreation</a> 🍊🧪
   - Using the Medical Information Mart for Intensive Care (MIMIC) dataset, my partner and I replicated findings for our CS 598 final project (UIUC MCS-DS)
     
 ## F <a id="f"></a>
+
 - *FPL Point Prediction Model*
 
 ## L <a id="l"></a>
-- *Large Language Models*
-
 - <a href="https://github.com/reedwrogers/Lens-Artifact">Lens Artifact Removal from Photographs</a>
   
 ## M <a id="m"></a>
-- *Mining Bitcoin with Pyminer*
-
 - <a href="https://github.com/reedwrogers/Tic-Tac-Toe">Minimax Implementation to play Tic-Tac-Toe</a>
   
 ## P <a id="p"></a>
@@ -53,7 +52,3 @@ Hello! I started this repository to keep track of things I want to learn or proj
     
 - <a href="https://www.youtube.com/playlist?list=PLdCtg421g85aJMylENQ-TiCW9ljqfRmTy">Self-Driving Car Labs</a> 🍊
   - A link to my YouTube playlist for videos made revolving around labs for my RPI self-driving car (UIUC MCS-DS)
-
-## T <a id="t"></a>
-  
-- *Twitter Activity Bot*
