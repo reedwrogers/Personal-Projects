@@ -28,7 +28,11 @@ Hello! I started this repository to keep track of things I want to learn or proj
     
 ## F <a id="f"></a>
 
-- *FPL Point Prediction Model*
+- <a href="https://github.com/reedwrogers/fpl-oracle">FPL Point Prediction Model</a>
+  - A data collection pipeline and Machine Learning model for predicting FPL points.
+
+- <a href="https://github.com/reedwrogers/fish-finder">Fish Finder</a>
+  - Scraping some geo-data and trying to find fishing spots near me.
 
 ## L <a id="l"></a>
 - <a href="https://github.com/reedwrogers/Lens-Artifact">Lens Artifact Removal from Photographs</a>
@@ -43,6 +47,9 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest">Random Forest from Scratch</a> 🛠
 
+-  <a href="https://github.com/reedwrogers/rummy-simulation">Rummy Simulation</a>
+  - Running some simulations to answer questions I have about a card game.
+    
 ## S <a id="s"></a>
 - <a href="https://github.com/reedwrogers/UIUC-Scientific-Visualization">Scientific Visuaization</a> 🍊🧪
   - My notes and projects for UIUC's scientific visualization class (UIUC MCS-DS)
