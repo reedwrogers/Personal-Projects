@@ -47,7 +47,7 @@ Hello! I started this repository to keep track of things I want to learn or proj
 ## R <a id="r"></a>
 -  <a href="https://github.com/reedwrogers/Random-Forest">Random Forest from Scratch</a> 🛠
 
--  <a href="https://github.com/reedwrogers/rummy-simulation">Rummy Simulation</a>
+- <a href="https://github.com/reedwrogers/rummy-simulation">Rummy Simulation</a> 
   - Running some simulations to answer questions I have about a card game.
     
 ## S <a id="s"></a>
